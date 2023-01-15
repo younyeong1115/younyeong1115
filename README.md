@@ -10,7 +10,7 @@
   ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣<br>
 |　Error!　　　　　　　　　　　　　　　　　　　　　[－][口][×] |<br>
 |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|<br>
-|　　　　　　　Hi i'm younyeong ! nice to meet you👋　　　　　 |<br>
+|　　　　　　　Hi i'm younyeong !! nice to meet you👋　　　　 |<br>
 |　　　　　　　　　　　＿＿＿＿＿　　　　　　　　　　　　　|<br>
 | 　　　　　　　　　　｜you as well |　　　　　　　　　 　 　　|<br>
 |　　　　　　　　　　　￣￣￣￣￣　　　　　　　　　　　　　|<br>
