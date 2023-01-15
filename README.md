@@ -3,15 +3,6 @@
 
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=bde0fe&height=200&section=header&text=YounYeong%20Lee&fontSize=50) -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap" rel="stylesheet">
-<style>
-*{
-font-family: 'Oswald', sans-serif;
-}
-</style>
-
 
 <div align="center">
   
