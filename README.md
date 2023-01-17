@@ -24,5 +24,6 @@
  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
  <br>
 <img src="http://mazandi.herokuapp.com/api?handle=isk7659&theme=cold"/>
+ <!--<img src="http://mazandi.herokuapp.com/api?handle=isk7659&theme=cold"/> 백준 브론즈되면 돌아가나 -->
 
  </div> 
