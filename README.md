@@ -16,7 +16,8 @@
 
   
  </div> 
- <div align="left">
+ 
+ <div style="width:200px; height:150px; border:1px solid red; float:left; margin-right:10px;">
 <!--## 🔎Tech Stack🔍 -->
   
   #### 🍀Platforms & Languages🍀
@@ -29,7 +30,11 @@
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
  
-  
+<img align="center" src='https://user-images.githubusercontent.com/92067780/214249000-afa992cb-3af9-441f-89a1-7b17e344c7af.gif' height="100" width="100">
+</div> 
+
+<div style="width:200px; height:150px; border:1px solid green; float:left;">
+ 
 [![younyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=younyeong1115)](https://github.com/younyeong1115/github-readme-stats)
 
 
