@@ -10,7 +10,7 @@
 ---
 <img align="left" src='https://user-images.githubusercontent.com/92067780/212530496-83682128-093f-43ef-a737-d4b343cd6778.gif' height="180" width="450">
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=younyeong)](https://solved.ac/isk7659) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=isk7659)](https://solved.ac/isk7659) 
 <br>
 <br>
 ---
