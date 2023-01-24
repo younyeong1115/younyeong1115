@@ -28,7 +28,8 @@
  <br>
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=isk7659)](https://solved.ac/isk7659) 
-![Younyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=younyeong&show_icons=true&theme=dracula)
+[![younyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=younyeong1115)](https://github.com/younyeong1115/github-readme-stats)
+ 
 <!-- <img src="http://mazandi.herokuapp.com/api?handle={isk7659}&theme=cold"/>-->
 
  </div> 
