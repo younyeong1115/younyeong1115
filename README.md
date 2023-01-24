@@ -5,11 +5,16 @@
 <div align="center">
 
 
-<img src='https://user-images.githubusercontent.com/92067780/212530496-83682128-093f-43ef-a737-d4b343cd6778.gif' height="250px" width="600px">
+<img align="left" src='https://user-images.githubusercontent.com/92067780/212530496-83682128-093f-43ef-a737-d4b343cd6778.gif' height="180" width="450">
  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=isk7659)](https://solved.ac/isk7659) 
+<br>
+<br>
+---
 <br>
  <br>
- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyounyeong1115%2Fhit-counter&count_bg=%23FFA9C7&title_bg=%23FDC8C8&icon=&icon_color=%23141313&title=%F0%9F%8C%B7&edge_flat=false"/></a>
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyounyeong1115%2Fhit-counter&count_bg=%23FFA9C7&title_bg=%23FDC8C8&icon=&icon_color=%23141313&title=%F0%9F%8C%B7&edge_flat=false"/>
+ 
 
 <!--## 🔎Tech Stack🔍 -->
 
@@ -24,11 +29,11 @@
   #### 🔨Tools🔨
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
- <br>
- <br>
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=isk7659)](https://solved.ac/isk7659) 
-[![younyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=younyeong1115)](https://github.com/younyeong1115/github-readme-stats)
+  
+<!-- [![younyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=younyeong1115)](https://github.com/younyeong1115/github-readme-stats)-->
+
+
  
 <!-- <img src="http://mazandi.herokuapp.com/api?handle={isk7659}&theme=cold"/>-->
 
