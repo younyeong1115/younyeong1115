@@ -9,8 +9,8 @@
 <br>
 ---
 <img align="left" src='https://user-images.githubusercontent.com/92067780/212530496-83682128-093f-43ef-a737-d4b343cd6778.gif' height="180" width="450">
- 
-  <img src="http://mazandi.herokuapp.com/api?handle=isk7659&theme=cold"></image>
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=isk7659)](https://solved.ac/isk7659)
 <br>
 <br>
 ---
@@ -36,5 +36,5 @@
  <!-- <div style="width:200px; height:150px; border:1px solid green; float:left;">
 <img align="right" src='https://user-images.githubusercontent.com/92067780/214249000-afa992cb-3af9-441f-89a1-7b17e344c7af.gif' height="100" width="100"> 
 [![younyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=younyeong1115)](https://github.com/younyeong1115/github-readme-stats)
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=isk7659)](https://solved.ac/isk7659) -->
+<!--  <img src="http://mazandi.herokuapp.com/api?handle=isk7659&theme=cold"></image> -->
 </div>
