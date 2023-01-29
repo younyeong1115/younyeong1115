@@ -1,6 +1,8 @@
+ 
 
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=bde0fe&height=200&section=header&text=YounYeong%20Lee&fontSize=50) -->
+ 
+
 
 <div align="center">
  
@@ -33,8 +35,8 @@
 </div> 
 
 
- <!-- <div style="width:200px; height:150px; border:1px solid green; float:left;">
-<img align="right" src='https://user-images.githubusercontent.com/92067780/214249000-afa992cb-3af9-441f-89a1-7b17e344c7af.gif' height="100" width="100"> 
-[![younyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=younyeong1115)](https://github.com/younyeong1115/github-readme-stats)
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=isk7659)](https://solved.ac/isk7659)  -->
-</div>
+<!-- 로고 ![header](https://capsule-render.vercel.app/api?type=wave&color=bde0fe&height=200&section=header&text=YounYeong%20Lee&fontSize=50) -->
+<!--깃허브 상태[![younyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=younyeong1115)](https://github.com/younyeong1115/github-readme-stats)-->
+<!--백준 레벨 현황 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=isk7659)](https://solved.ac/isk7659)  -->
+<!--벨로그 백준태그 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=younyeong&tag=백준)](https://github.com/younyeong/velog-readme-stats) -->
+
