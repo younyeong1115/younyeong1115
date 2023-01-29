@@ -11,7 +11,6 @@
 <img align="left" src='https://user-images.githubusercontent.com/92067780/212530496-83682128-093f-43ef-a737-d4b343cd6778.gif' height="180" width="450">
 
   <img src="http://mazandi.herokuapp.com/api?handle=isk7659&theme=cold"></image>
-  
 <br>
 <br>
 ---
